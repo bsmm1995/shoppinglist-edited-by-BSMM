@@ -1,0 +1,10 @@
+<resources>
+    <string title="app_name">Shopping List</string>
+    <string title="action_update_list">Update list</string>
+    <string name="app_name">Shoppinglist</string>
+    <string name="product_title">Product Title</string>
+    <string name="producto">Producto</string>
+    <string name="update_producto">Update</string>
+    <string name="delete_product">Delete</string>
+    <string name="delete_all_products">Delete all</string>
+</resources>
